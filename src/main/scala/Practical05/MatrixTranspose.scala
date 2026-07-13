@@ -22,7 +22,7 @@ object MatrixTranspose {
 
     println("Original Matrix:")
     println(matrix)
-
+   
     println("\nTranspose Matrix:")
     println(transposeMatrix)
 
