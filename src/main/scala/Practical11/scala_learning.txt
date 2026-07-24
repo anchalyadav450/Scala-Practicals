@@ -1,0 +1,17 @@
+My name is Anchal Yadav. I am a student who enjoys learning new technologies and programming languages.
+I am currently learning Scala programming as part of my academic practicals.
+
+Our Scala course is taught by Dr. Mahendra Kanojiya Sir.
+He explains every concept in a simple and easy-to-understand way.
+His teaching style encourages students to practice coding regularly and understand programming with confidence.
+
+I enjoy solving programming problems and improving my coding skills through regular practice.
+Scala has helped me understand object-oriented and functional programming concepts in a better way.
+
+I am also interested in data science and software development.
+Learning Scala has increased my interest in technology and programming.
+I believe that continuous learning and practical experience are the keys to becoming a successful programmer.
+
+My goal is to improve my technical knowledge, build useful software applications, and become 
+a skilled data scientist in the future.
+I enjoy exploring new ideas, learning modern technologies, and developing creative solutions through programming.
